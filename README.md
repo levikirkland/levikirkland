@@ -1,5 +1,5 @@
 # Andy Kirkland Profile
-
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/levikirkland)
 
 The projects in my repositories include projects I am working on, and projects that help me learn new methods. I am currently learning Clean Architecture and building both a Clean version and monolithic version of the same application as a way to distinquish the principals. 
 <br />
@@ -7,7 +7,6 @@ The projects in my repositories include projects I am working on, and projects t
 
 Contributions are welcome. 
 I am new to using GitHub so offer advice on how to accept changes into my repository. Feel free to create an issue to help me build a better app. 
-
 
 # Credits
 All credits goes to the original authors of the projects I Fork and tremendous thanks in advance should anyone propose changes or submit a branch.
