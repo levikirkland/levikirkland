@@ -5,9 +5,6 @@ The projects in my repositories include projects I am working on, and projects t
 <br />
 <img src="https://img.shields.io/badge/Experience-20%20Years-yellow">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levikirkland&theme=vision-friendly-dark)
-
-
 Contributions are welcome. 
 I am new to using GitHub so offer advice on how to accept changes into my repository. Feel free to create an issue to help me build a better app. 
 
@@ -18,8 +15,6 @@ All credits goes to the original authors of the projects I Fork and tremendous t
 # Vistors
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=levikirkland)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=levikirkland&show_icons=true&theme=vision-friendly-dark)
 
 # I am using these technologies.
 ## Languages / Frameworks
@@ -66,3 +61,7 @@ All credits goes to the original authors of the projects I Fork and tremendous t
 
 ## Special Projects
 ![Raspberry Pi](https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white)
+
+# Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levikirkland&theme=vision-friendly-dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=levikirkland&show_icons=true&theme=vision-friendly-dark)
