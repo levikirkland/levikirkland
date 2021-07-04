@@ -1,4 +1,4 @@
-# Levi Kirkland GitHub Profile
+# Andy Kirkland Profile
 
 
 The projects in my repositories include projects I am working on, and projects that help me learn new methods. I am currently learning Clean Architecture and building both a Clean version and monolithic version of the same application as a way to distinquish the principals. 
