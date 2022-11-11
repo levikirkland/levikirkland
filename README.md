@@ -11,6 +11,9 @@ I am new to using GitHub so offer advice on how to accept changes into my reposi
 # Credits
 All credits goes to the original authors of the projects I Fork and tremendous thanks in advance should anyone propose changes or submit a branch.
 
+# Teaching
+I sometimes host a teaching session using Asana PM for lessons and StackOverflow for questions, covering all the the technologies listed below. 
+
 # Vistors
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=levikirkland)
