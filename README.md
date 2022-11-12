@@ -6,7 +6,7 @@ The projects in my repositories include projects I am working on, and projects t
 <img src="https://img.shields.io/badge/Experience-20%20Years-yellow">
 
 Contributions are welcome. 
-I am new to using GitHub so offer advice on how to accept changes into my repository. Feel free to create an issue to help me build a better app. 
+Offer advice on how to accept changes into my repository. Feel free to create an issue to help me build a better app.  
 
 # Credits
 All credits goes to the original authors of the projects I Fork and tremendous thanks in advance should anyone propose changes or submit a branch.
