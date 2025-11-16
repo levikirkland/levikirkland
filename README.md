@@ -31,6 +31,7 @@ I sometimes host a teaching session using Asana PM for lessons and StackOverflow
 # Databases <br/>
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MS SQL](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SQLite-%23003B57)
 
 ## Repo
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
