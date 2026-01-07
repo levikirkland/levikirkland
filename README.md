@@ -1,70 +1,66 @@
-# Andy Kirkland Profile
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/levikirkland)
+# 🚀 Andy Kirkland | Full-Stack Developer & Mentor
 
-The projects in my repositories include projects I am working on, and projects that help me learn new methods.  
-<br />
-<img src="https://img.shields.io/badge/Experience-30%20Years-yellow">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levikirkland)
+<img src="https://img.shields.io/badge/Experience-30%20Years-yellow?style=for-the-badge" height="28">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=levikirkland" alt="visitors" height="28">
 
-Contributions are welcome. 
-Offer advice on how to accept changes into my repository. Feel free to create an issue to help me build a better app.  
+Highly experienced developer focused on continuous learning and architectural excellence. My repositories serve as a sandbox for exploring new methodologies and building production-ready applications.
 
-# Credits
-All credits goes to the original authors of the projects I Fork and tremendous thanks in advance should anyone propose changes or submit a branch.
+---
 
-# Teaching
-I sometimes host a teaching session using Asana PM for lessons and StackOverflow for questions, covering all the the technologies listed below. 
+### 🛠️ The Tech Stack
 
-# Vistors
+#### **Intelligence & AI**
+> *Integrating cutting-edge LLMs and local AI into the development workflow.*
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=levikirkland)
+![Ollama](https://img.shields.io/badge/Ollama-00000F?style=for-the-badge&logo=Ollama&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-# I am using these technologies.
-## Languages / Frameworks
+#### **Core Development**
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-# Databases <br/>
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+#### **Data & Infrastructure**
 ![MS SQL](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logoColor=white)
-
-
-## Repo
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-
-## Api Testing
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-
-## Session 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-
-## Cloud Tech
-![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-## Container
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-## IDE
-![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+#### **Cloud & DevOps**
+![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-## Social
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+---
 
-## OS
-![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+### 👨‍🏫 Mentorship & Teaching
+I believe in giving back to the community. I host periodic teaching sessions using a structured workflow:
+* **Project Management:** [Asana PM](https://asana.com/) for lesson tracking and milestones.
+* **Q&A:** [StackOverflow](https://stackoverflow.com/) for technical deep-dives.
+* **Topics:** Full-stack development, .NET architecture, and AI integration.
 
-## Special Projects
+---
+
+### 🤝 Contributions & Collaboration
+Contributions are welcome! If you'd like to help improve my apps or offer advice:
+1.  **Fork** the repository.
+2.  **Create an Issue** to discuss the changes you'd like to make.
+3.  **Submit a Pull Request** (PR) once your branch is ready.
+
+> **Credits:** Heartfelt thanks to the original authors of projects I've forked. Your work provides the foundation for my continued learning.
+
+### Special Projects
 ![Raspberry Pi](https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white)
 
-# Stats
-I'll add more soon.
+### 📊 Stats & Social
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/levikirkland)
+![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
