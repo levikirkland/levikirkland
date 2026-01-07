@@ -16,7 +16,7 @@ I sometimes host a teaching session using Asana PM for lessons and StackOverflow
 
 # Vistors
 
-![](https://visitor-badge.laobi.icu/badge?page_id=levikirkland)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=levikirkland)
 
 # I am using these technologies.
 ## Languages / Frameworks
@@ -67,5 +67,4 @@ I sometimes host a teaching session using Asana PM for lessons and StackOverflow
 ![Raspberry Pi](https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white)
 
 # Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levikirkland&theme=vision-friendly-dark)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=levikirkland&show_icons=true&theme=vision-friendly-dark)
+I'll add more soon.
