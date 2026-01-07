@@ -8,19 +8,31 @@ Highly experienced developer focused on continuous learning and architectural ex
 
 ---
 
+### 📈 Latest GitHub Activity
+*Currently loading recent activity...*
+---
+
+### 📦 Open Source Contributions
+I maintain the following package on the NPM registry:
+
+**[my-admin-framework](https://www.npmjs.com/package/my-admin-framework)**
+[![NPM Version](https://img.shields.io/npm/v/my-admin-framework?style=flat-square&color=CB3837&logo=npm)](https://www.npmjs.com/package/my-admin-framework)
+[![NPM Downloads](https://img.shields.io/npm/dm/my-admin-framework?style=flat-square&color=CB3837)](https://www.npmjs.com/package/my-admin-framework)
+
+---
+
 ### 🛠️ The Tech Stack
 
 #### **Intelligence & AI**
-> *Integrating cutting-edge LLMs and local AI into the development workflow.*
-
 ![Ollama](https://img.shields.io/badge/Ollama-00000F?style=for-the-badge&logo=Ollama&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-#### **Core Development**
+#### **Core Development & Frameworks**
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,7 +42,7 @@ Highly experienced developer focused on continuous learning and architectural ex
 #### **Data & Infrastructure**
 ![MS SQL](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -39,6 +51,11 @@ Highly experienced developer focused on continuous learning and architectural ex
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
+---
+
+### 🧪 Special Projects
+![Raspberry Pi](https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white)
 
 ---
 
@@ -58,9 +75,5 @@ Contributions are welcome! If you'd like to help improve my apps or offer advice
 
 > **Credits:** Heartfelt thanks to the original authors of projects I've forked. Your work provides the foundation for my continued learning.
 
-### Special Projects
-![Raspberry Pi](https://img.shields.io/badge/RASPBERRY%20PI-C51A4A.svg?&style=for-the-badge&logo=raspberry%20pi&logoColor=white)
-
-### 📊 Stats & Social
+### 📊 Community & Social
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/levikirkland)
-![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
