@@ -9,6 +9,7 @@ Highly experienced developer focused on continuous learning and architectural ex
 ---
 
 ### 📈 Latest GitHub Activity
+<!--START_SECTION:activity-->
 *Currently loading recent activity...*
 ---
 
