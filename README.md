@@ -80,6 +80,9 @@ Contributions are welcome! If you'd like to help improve my apps or offer advice
 3.  **Submit a Pull Request** (PR) once your branch is ready.
 
 > **Credits:** Heartfelt thanks to the original authors of projects I've forked. Your work provides the foundation for my continued learning.
+> 
+GitHub Overall Stats	Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api?username=levikirkland&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Andy's GitHub Stats" />
 
 ### 📊 Community & Social
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/levikirkland)
