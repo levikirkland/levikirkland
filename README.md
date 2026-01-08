@@ -1,4 +1,4 @@
-# 🚀 Andy Kirkland | Full-Stack Developer & Mentor
+# 🚀 Andy Kirkland | Full-Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levikirkland)
 <img src="https://img.shields.io/badge/Experience-30%20Years-yellow?style=for-the-badge" height="28">
